@@ -1,0 +1,16 @@
+v 4
+file . "tb_regCarga4b.vhdl" "f6a91188dfeeb5f272179cda721e8ae800b47e6a" "20240223120127.119":
+  entity tb_4bregcarga at 1( 0) + 0 on 123;
+  architecture test of tb_4bregcarga at 8( 110) + 0 on 124;
+file . "regCarga4b.vhdl" "42c29b52a0d143f2c72ba5d84fc40e72e21aff63" "20240223120127.116":
+  entity regcarga4bit at 1( 0) + 0 on 121;
+  architecture reg4bit of regcarga4bit at 14( 248) + 0 on 122;
+file . "Mux2x1.vhdl" "898ff2a3db7f3dba9d13d3f569f1dd915942c9fc" "20240223115726.988":
+  entity mux2x1 at 4( 48) + 0 on 109;
+  architecture comuta of mux2x1 at 12( 172) + 0 on 110;
+file . "ffjk_tipoD.vhdl" "3878acd07ad496712ecb1ee5778dbbbaecd07ecc" "20240223120127.109":
+  entity ffjkd at 1( 0) + 0 on 117;
+  architecture ff of ffjkd at 13( 186) + 0 on 118;
+file . "regCarga1b.vhdl" "74891d6d1b362080c200282a11f060bc32b2d028" "20240223120127.112":
+  entity regcarga1bit at 1( 0) + 0 on 119;
+  architecture reg1bit of regcarga1bit at 14( 210) + 0 on 120;
